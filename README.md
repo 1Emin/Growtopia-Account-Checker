@@ -17,4 +17,4 @@ System.Runtime.CompilerServices.Unsafe.dll
 
 
 
-### Credit : [Moien007](https://github.com/moien007) (ENet.Managed) & [playingoDEERUX](https://github.com/playingoDEERUX) (Serialize Player Inventory) & [heysurfer] (https://github.com/heysurfer/)
+### Credit : [Moien007](https://github.com/moien007) (ENet.Managed) & [playingoDEERUX](https://github.com/playingoDEERUX) (Serialize Player Inventory) & [heysurfer](https://github.com/heysurfer/)
