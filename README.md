@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/809244676091412530?label=discord)](https://discord.gg/y9ypPXtPrz)
 
 
-## Release [](https://github.com/1Emin/Growtopia-Account-Checker/releases/tag/release)
+## Release [V1](https://github.com/1Emin/Growtopia-Account-Checker/releases/tag/release)
 This files must be same folder to use account checker!
 ```
 base.txt
