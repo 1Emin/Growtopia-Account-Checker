@@ -1,7 +1,7 @@
 # Growtopia-Account-Checker
 
 
-[![Discord](https://img.shields.io/discord/809244676091412530?label=discord)](https://discord.gg/y9ypPXtPrz)
+[![Discord](https://img.shields.io/discord/917888904751874078?color=%23000000&style=plastic?label=discord)](https://discord.gg/y9ypPXtPrz)
 
 
 ## Release [V1](https://github.com/1Emin/Growtopia-Account-Checker/releases/tag/release)
